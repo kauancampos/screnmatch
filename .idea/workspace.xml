@@ -4,14 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="91584f03-e17f-416b-8f08-32753c6374e0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Aprendente Java/desafios01/src/Estudos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Aprendente Java/desafios01/src/Soma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Aprendente Java/desafios01/src/Subtração.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Aprendente Java/desafios01/src/perfil.java" afterDir="false" />
+    <list default="true" id="91584f03-e17f-416b-8f08-32753c6374e0" name="Changes" comment="Atualizações">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Principal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Filme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Filme.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Serie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Serie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Titulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Titulo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +26,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -53,42 +52,43 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.AlunoPrincipal.executor": "Run",
-    "Application.AlunosPrincipal.executor": "Run",
-    "Application.CalculadoraPessoal.executor": "Run",
-    "Application.CalculadoraPrincipal.executor": "Run",
-    "Application.CarroPrincipal.executor": "Run",
-    "Application.ContaBancariaPrincipal.executor": "Run",
-    "Application.Desafios1.executor": "Run",
-    "Application.IdadePessoaPrincipal.executor": "Run",
-    "Application.LivroPrincipal.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.MusicaPrincipal.executor": "Run",
-    "Application.Pessoa.executor": "Run",
-    "Application.Principal.executor": "Run",
-    "Application.ProdutosPrincipal.executor": "Run",
-    "Application.TestandoSom.executor": "Run",
-    "Application.TesteCalculadoraSalaRetangular.executor": "Run",
-    "Application.TesteContaBancaria.executor": "Debug",
-    "Application.TesteConversorMoeda.executor": "Run",
-    "Application.TesteConversorTemperatura.executor": "Run",
-    "Application.TesteNumerosPrimos.executor": "Run",
-    "Application.TesteTabuadaMultiplicacao.executor": "Run",
-    "Application.TestesAnimais.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AlunoPrincipal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AlunosPrincipal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CalculadoraPessoal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CalculadoraPrincipal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CarroPrincipal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ContaBancariaPrincipal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Desafios1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IdadePessoaPrincipal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LivroPrincipal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MusicaPrincipal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pessoa.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PessoaPrincipal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Principal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProdutosPrincipal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestandoSom.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TesteCalculadoraSalaRetangular.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TesteContaBancaria.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.TesteConversorMoeda.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TesteConversorTemperatura.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TesteNumerosPrimos.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TesteTabuadaMultiplicacao.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestesAnimais.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.TesteConversorTemperatura">
-    <configuration name="TestandoSom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="implementacoes.aprendendo.TestandoSom" />
+}</component>
+  <component name="RunManager" selected="Application.ProdutosPrincipal">
+    <configuration name="PessoaPrincipal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="desafios05.PessoaPrincipal" />
       <module name="screnmatch" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="implementacoes.aprendendo.*" />
+          <option name="PATTERN" value="desafios05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,25 +96,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TesteCalculadoraSalaRetangular" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="desafios04.TesteCalculadoraSalaRetangular" />
+    <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Principal" />
       <module name="screnmatch" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="desafios04.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TesteConversorMoeda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="desafios04.TesteConversorMoeda" />
+    <configuration name="ProdutosPrincipal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="desafios06.ProdutosPrincipal" />
       <module name="screnmatch" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="desafios04.*" />
+          <option name="PATTERN" value="desafios06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ProdutosPrincipal" />
+        <item itemvalue="Application.Principal" />
+        <item itemvalue="Application.PessoaPrincipal" />
         <item itemvalue="Application.TesteConversorTemperatura" />
         <item itemvalue="Application.TesteTabuadaMultiplicacao" />
-        <item itemvalue="Application.TesteCalculadoraSalaRetangular" />
-        <item itemvalue="Application.TesteConversorMoeda" />
-        <item itemvalue="Application.TestandoSom" />
       </list>
     </recent_temporary>
   </component>
@@ -167,7 +161,20 @@
       <option name="presentableId" value="Default" />
       <updated>1725116282869</updated>
     </task>
+    <task id="LOCAL-00001" summary="Atualizações">
+      <option name="closed" value="true" />
+      <created>1727021911175</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727021911175</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Atualizações" />
+    <option name="LAST_COMMIT_MESSAGE" value="Atualizações" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
