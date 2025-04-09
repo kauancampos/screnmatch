@@ -4,10 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="91584f03-e17f-416b-8f08-32753c6374e0" name="Changes" comment="Atualizações">
+    <list default="true" id="91584f03-e17f-416b-8f08-32753c6374e0" name="Changes" comment="Avançando nos estudos.">
+      <change afterPath="$PROJECT_DIR$/../../../Estudo - Java/.idea/Estudo - Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Estudo - Java/Conta Bancaria/Conta Bancaria.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Estudo - Java/Relembrando/Relembrando.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Estudo - Java/devdojo.java/devdojo.java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aprendendo C#/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aprendendo C#/ExercisesC/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aprendente Java/Desafios1/Desafios1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aprendente Java/Primeira aula/Primeira aula.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aprendente Java/desafios01/desafios01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aprendente Java/desafios02/.idea/desafios02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aprendente Java/desafios02/desafios02/desafios02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aprendente Java/primeiroprojeto/primeiroprojeto.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ExercisesC/.idea/.idea.ExercisesC/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ExercisesC/.idea/.idea.ExercisesC/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ExercisesC/.idea/.idea.ExercisesC/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ExercisesC/.idea/.idea.ExercisesC/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/Java Aplicando a orientação a objeto.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Estudando mais/Estudando mais.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/principal/PrincipalComBusca.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Principal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Filme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Filme.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/principal/Principal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Serie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Serie.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Titulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Titulo.java" afterDir="false" />
     </list>
@@ -56,6 +74,8 @@
   &quot;keyToString&quot;: {
     &quot;Application.AlunoPrincipal.executor&quot;: &quot;Run&quot;,
     &quot;Application.AlunosPrincipal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ApredendoArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Cachorro.executor&quot;: &quot;Debug&quot;,
     &quot;Application.CalculadoraPessoal.executor&quot;: &quot;Run&quot;,
     &quot;Application.CalculadoraPrincipal.executor&quot;: &quot;Run&quot;,
     &quot;Application.CarroPrincipal.executor&quot;: &quot;Run&quot;,
@@ -67,8 +87,13 @@
     &quot;Application.MusicaPrincipal.executor&quot;: &quot;Run&quot;,
     &quot;Application.Pessoa.executor&quot;: &quot;Run&quot;,
     &quot;Application.PessoaPrincipal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrimeiroDesafio.executor&quot;: &quot;Debug&quot;,
     &quot;Application.Principal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrincipalAnimal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrincipalComListas.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.ProdutoPrincipal.executor&quot;: &quot;Debug&quot;,
     &quot;Application.ProdutosPrincipal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestandoForeach.executor&quot;: &quot;Run&quot;,
     &quot;Application.TestandoSom.executor&quot;: &quot;Run&quot;,
     &quot;Application.TesteCalculadoraSalaRetangular.executor&quot;: &quot;Run&quot;,
     &quot;Application.TesteContaBancaria.executor&quot;: &quot;Debug&quot;,
@@ -82,13 +107,13 @@
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ProdutosPrincipal">
-    <configuration name="PessoaPrincipal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="desafios05.PessoaPrincipal" />
+  <component name="RunManager">
+    <configuration name="PrincipalAnimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="desafiso07.PrincipalAnimal" />
       <module name="screnmatch" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="desafios05.*" />
+          <option name="PATTERN" value="desafiso07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,9 +121,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Principal" />
+    <configuration name="PrincipalComListas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.screenmatch.principal.PrincipalComListas" />
       <module name="screnmatch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.alura.screenmatch.principal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -116,25 +147,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TesteConversorTemperatura" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="desafios04.TesteConversorTemperatura" />
+    <configuration name="TestandoForeach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="desafiso07.TestandoForeach" />
       <module name="screnmatch" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="desafios04.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TesteTabuadaMultiplicacao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="desafios04.TesteTabuadaMultiplicacao" />
-      <module name="screnmatch" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="desafios04.*" />
+          <option name="PATTERN" value="desafiso07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,11 +162,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrincipalAnimal" />
+        <item itemvalue="Application.TestandoForeach" />
+        <item itemvalue="Application.PrincipalComListas" />
         <item itemvalue="Application.ProdutosPrincipal" />
-        <item itemvalue="Application.Principal" />
-        <item itemvalue="Application.PessoaPrincipal" />
-        <item itemvalue="Application.TesteConversorTemperatura" />
-        <item itemvalue="Application.TesteTabuadaMultiplicacao" />
       </list>
     </recent_temporary>
   </component>
@@ -169,12 +186,21 @@
       <option name="project" value="LOCAL" />
       <updated>1727021911175</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Avançando nos estudos.">
+      <option name="closed" value="true" />
+      <created>1727735301121</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1727735301121</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Atualizações" />
-    <option name="LAST_COMMIT_MESSAGE" value="Atualizações" />
+    <MESSAGE value="Avançando nos estudos." />
+    <option name="LAST_COMMIT_MESSAGE" value="Avançando nos estudos." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
